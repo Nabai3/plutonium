@@ -1,0 +1,1 @@
+// about:blank cloaking will go here, I'm just too lazy to implement it right now, sorry!
